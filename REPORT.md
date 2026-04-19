@@ -37,3 +37,4 @@ Berikut adalah hasil eksekusi program menggunakan file eksekusi `./myapp` dengan
 * **Output**: `sama sisi`
 
 ## 4. Eksekusi
+<img width="1040" height="402" alt="image" src="https://github.com/user-attachments/assets/4d54a9cc-d376-432b-a35d-3ee0d0de131a" />
